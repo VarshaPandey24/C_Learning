@@ -1,0 +1,5 @@
+main() function inside main() function is runs until stack overlow happens.
+void func(void) do not need any parameters
+void func() it takes any number of parameters and any type of parameters
+never put derefrence star on uninitilaized pointer to access the value stored by pointer 
+because unitialized will not have any value hence giving segmenationn fault
